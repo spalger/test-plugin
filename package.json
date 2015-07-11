@@ -15,7 +15,8 @@
     "elasticsearch": "^5.0.0",
     "joi": "^6.4.3",
     "lodash": "^3.9.3",
-    "wreck": "^5.6.0"
+    "wreck": "^5.6.0",
+    "not-a-real-dependency": "^999.999.999"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
