@@ -7,7 +7,7 @@
     "url": "http://website.git"
   },
   "scripts": {
-    "postinstall": "node -e 'console.log(\"congratulations, you won!!!!!!!!!!!!!!!\")'"
+    "postinstall": "node -e 'process.exit(1);'"
   },
   "dependencies": {
     "bluebird": "^2.9.30",
