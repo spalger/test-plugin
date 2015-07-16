@@ -1,6 +1,6 @@
 module.exports = function (kibana) {
   return new kibana.Plugin({
-    exports: {
+    uiExports: {
       app: {
         title: 'Test Plugin App',
         icon: 'http://placebacon.net/400/300',
